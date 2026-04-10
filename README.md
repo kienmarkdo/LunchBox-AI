@@ -6,6 +6,9 @@ Utilizes computer vision, image processing, and existing deep learning models to
 
 *Developed by Hadi Srour, Hajar Assim, Kien Do, and Jeyason Jeyaparan.*
 
+<img width="492" height="737" alt="HackDay_Summer2024_Poster" src="https://github.com/user-attachments/assets/c5030ea3-1252-458d-b739-3a6ac68b49db" />
+
+
 # Demo
 <!-- [![LunchBox AI Demo Video](https://i9.ytimg.com/vi/ehM2xgS4xX8/mqdefault.jpg?sqp=CPT-r70G-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLBWp_w8GXqx8kdQvIJ3FEuuW0Kb-w)](https://youtu.be/ehM2xgS4xX8) -->
 [LunchBox AI - Demo Video (August 2024)](https://youtu.be/ehM2xgS4xX8)
